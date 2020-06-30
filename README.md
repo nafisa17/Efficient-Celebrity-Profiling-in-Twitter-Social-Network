@@ -1,0 +1,2 @@
+# Efficient-Celebrity-Profiling-in-Twitter-Social-Network
+The topic of our final year project is “Efficient Celebrity Profiling in Twitter Social Network”. The project is based on Natural Language Processing (NLP). Our objective is to user classification and predict unknown celebrity’s most tweets belong to which class. We basically do this project upon python. We’ll use topic modelling to classify (multi class classification) the category and for this we’ll use Data Dictionary.
